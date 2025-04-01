@@ -1,0 +1,6 @@
+So, this is my contribution to the open source stuff that we have
+been talking about all along this way. This seems so intriguing and
+practical that I'm so actually engaged with all of this stuff
+that I can't help but love it. So good, really!
+Ok, so lets make another modification to use the command git add .
+and then use git status.
